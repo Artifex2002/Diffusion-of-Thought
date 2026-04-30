@@ -2,8 +2,6 @@
 
 ## Improving Diffusion LMs via Iterative Supervised Trajectory-Aware RL
 
----
-
 ## Getting Started
 
 ### Prerequisites
@@ -43,8 +41,6 @@ conda activate DoT
 
 🎉 **Environment is now good to go!**
 
----
-
 ## Planned Repository Structure
 
 ```
@@ -64,8 +60,6 @@ conda activate DoT
     └── trajectory_viz.py      # Visualise denoising trajectories across rounds
 ```
 
----
-
 ## Key References
 
 | Paper | arXiv | Role |
@@ -78,8 +72,6 @@ conda activate DoT
 | Latent Tokens (He et al.) | [2602.03769](https://arxiv.org/abs/2602.03769) | Theoretical motivation + Phase 2 |
 | LogicDiff | [2603.26771](https://arxiv.org/abs/2603.26771) | Unmasking order evidence |
 | STaR | — | Round 1 cold start loop |
-
----
 
 ## Status
 
