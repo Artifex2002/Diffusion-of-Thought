@@ -41,7 +41,7 @@ conda activate DoT
 ```
 
 
-🎉 **Environment is now good to go. Time to run some attacks!**
+🎉 **Environment is now good to go!**
 
 ---
 
